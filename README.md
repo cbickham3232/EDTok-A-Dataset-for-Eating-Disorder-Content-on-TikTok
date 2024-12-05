@@ -1,6 +1,6 @@
 # Eating Disorder Dataset on TikTok
 
-This repository contains the TikTok Video IDs of content related to eating disorders. The data was collected using TikTok's Research API. To comply with TikTok's terms of service, we are only publicly releasing the TikTok Videos IDs of the collected videos. The dataset provides an opportunity for research on social media's influence on mental health, specifically eating disorders.
+This repository contains the TikTok Video IDs of content related to eating disorders. The data was collected using TikTok's Research API. To comply with TikTok's terms of service, we are only publicly releasing the TikTok Video IDs of the collected videos. The dataset provides an opportunity for research on social media's influence on mental health, specifically eating disorders.
 
 ## Data Structure
 
