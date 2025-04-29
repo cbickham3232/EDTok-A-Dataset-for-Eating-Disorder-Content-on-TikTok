@@ -23,4 +23,4 @@ To fully utilize the resources in this repository, ensure you have access to:
 
 For any questions, feedback, or collaboration opportunities, please feel free to reach out:
 
-- **Email**: [anonymous@example.com](anonymous@example.com)
+- **Email**: [cbickham@usc.edu](cbickham@usc.edu)
